@@ -1,7 +1,5 @@
 import Container from "../Component";
-import { ModeToggle } from "../ModeToggle";
 import SearchInput from "../SearchInput";
-import NavMenu from "./NavMenu";
 import { HiMenu } from "react-icons/hi";
 import { LuArrowBigDown } from "react-icons/lu";
 
